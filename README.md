@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prasad
 - 💞️ I’m looking to collaborate to OpenApi Intiative 
-- 📫 Please reach me at hemprasad.koppu@gmail.com
+- 📫 Please reach me @hemprasadkoppu
 
 <!---
 hemprasadkoppu/hemprasadkoppu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
