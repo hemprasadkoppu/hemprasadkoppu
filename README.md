@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Prasad
-- 💞️ I’m looking to collaborate on OpenApi Intiative 
+- 💞️ I’m looking to collaborate to OpenApi Intiative 
 - 📫 Please reach me at hemprasad.koppu@gmail.com
 
 <!---
