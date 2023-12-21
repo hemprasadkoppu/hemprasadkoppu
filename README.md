@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hemprasadkoppu
+- 👋 Hi, I’m Prasad
 - 💞️ I’m looking to collaborate on OpenApi Intiative 
 - 📫 Please reach me at hemprasad.koppu@gmail.com
 
