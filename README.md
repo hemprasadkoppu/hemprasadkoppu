@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Prasad
-- 💞️ I’m looking to collaborate to OpenApi Intiative 
+- 💞️ I’m looking to collaborate to OpenApi Intiative and OpenTelemetry
 - 📫 Please reach me @hemprasadkoppu
 
 <!---
